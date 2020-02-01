@@ -1,4 +1,4 @@
-# Small-Terllo
+# Trillo-Website
 
 - Build from the this course: https://www.udemy.com/course/advanced-css-and-sass/  <--- "Thanks very much."
 
